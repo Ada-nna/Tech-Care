@@ -2,8 +2,8 @@
 
 A responsive and interactive medical dashboard designed to visualize patient diagnostics, vitals, and lab results. Built using **React**, **TypeScript**, and **Tailwind CSS**, the application features dynamic charts, modular components, and mobile-first design to ensure accessibility across all screen sizes.
 
-![App Preview 1](./public/screenshot-1.png)
-![App Preview 2](./public/screenshot-2.png)
+![App Preview 1](./assets/screenshot-1.png)
+![App Preview 2](./assets/screenshot-2.png)
 
 ## 🧠 Features
 
@@ -55,3 +55,4 @@ src/
 │   └── Patient.ts
 └── App.tsx
 
+```
