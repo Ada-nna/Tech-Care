@@ -15,9 +15,6 @@ const Hero = () => {
   const auth = import.meta.env.VITE_API_AUTH;
 
   useEffect(() => {
-    console.log("URL:", url);
-    console.log("AUTH:", auth);
-
     const fetchPatients = async () => {
       try {
         const response = await axios.get(url, {
